@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.pfc",
-               "sha256_cert_fingerprints": ["86:C5:09:CF:2E:C1:AC:35:3C:C5:88:FD:1D:97:8F:84:8E:C2:AB:2F:7C:17:92:45:B9:D3:02:69:4F:78:38:DA"] }
-}]
